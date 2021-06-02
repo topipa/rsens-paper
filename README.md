@@ -4,4 +4,4 @@ This is a repository for the paper *Uncertainty-aware Sensitivity Analysis Using
 
 ## References
 
-Paananen, T., Andersen, M. R., and Vehtari, A. (2021). *Uncertainty-aware Sensitivity Analysis Using Rényi Divergences*. ([arXiv Preprint](https://arxiv.org/abs/1910.07942))
+Paananen, T., Andersen, M. R., and Vehtari, A. (2021). *Uncertainty-aware Sensitivity Analysis Using Rényi Divergences*. UAI 2021, accepted for publication. ([arXiv Preprint](https://arxiv.org/abs/1910.07942))
