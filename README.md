@@ -4,6 +4,7 @@ This is a repository for the paper *Uncertainty-aware Sensitivity Analysis Using
 
 ## Demo
 
+The folder `demo-1D` contains a 1D demo for plotting the R-sens uncertainty-aware sensitivity for user-defined predictive distributions. The folder contains demos for a Gaussian predictive distribution and Bernoulli predictive distribution.
 
 <img src="figures/README-plot-1.png" width="60%" style="display: block; margin: auto;" />
 
