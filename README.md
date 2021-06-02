@@ -10,7 +10,7 @@ The folder `demo-1D` contains a 1D demo for plotting the R-sens uncertainty-awar
 
 ## GPyTorch implementation
 
-The folder `gpytorch` contains the R-sens and R-sens2 codes for GPyTorch. There are also several scripts that show examples of how to use the code.
+The folder `gpytorch` contains the R-sens and R-sens2 codes for GPyTorch. There are also several scripts that show examples of how to use the code. Currently supported likelihoods are Gaussian and Bernoulli. More to come soon.
 
 ## References
 
